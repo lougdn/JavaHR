@@ -15,7 +15,7 @@ public class JavaHR {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    int i;
+    int i = 0;
     }
     
 }
